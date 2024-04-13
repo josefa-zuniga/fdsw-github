@@ -21,6 +21,11 @@ body {
 }
 /* Mis trabajos */
 
+.trabajos{
+  display: flex;
+  justify-content: center;
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
